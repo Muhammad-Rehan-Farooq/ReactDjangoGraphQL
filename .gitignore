@@ -1,0 +1,3 @@
+env/
+graphql-frontend/node_modules/
+.DS_store
