@@ -14,7 +14,7 @@ Move to graphql_bk Directory and run following command
 ##### python manage.py migrate
 
 ## Load data
-##### python manage.py loaddata movies.json
+##### python manage.py loaddata data.json
 
 ## Start server and that's it
 ##### python manage.py runserver
